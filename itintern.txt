@@ -6,6 +6,9 @@ $ cd changes
 $ git init
 $ git pull https://github.com/husnees/husnees.github.io.git
 $ c:/windows/notepad itintern
+$ git add
+$ git commit -m "changes made"
 $ git status
+$ git remote add origin
 $ git remote -v
 $ git push -u origin master
