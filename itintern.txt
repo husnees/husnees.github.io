@@ -1,1 +1,11 @@
 byrnes rasyid meyna namkun husnee
+
+
+$ mkdir changes
+$ cd changes
+$ git init
+$ git pull https://github.com/husnees/husnees.github.io.git
+$ c:/windows/notepad itintern
+$ git status
+$ git remote -v
+$ git push -u origin master
